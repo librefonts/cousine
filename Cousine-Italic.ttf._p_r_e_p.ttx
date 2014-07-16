@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      NPUSHW[ ]  /* 38 values pushed */
+      339 1 333 85 338 1 333 85 342 340 20 31 341 340 31 31 335 51 334 85 332 51 333 85 317
+      61 316 85 316 1 314 85 315 61 314 85 309 308
+      PUSHB[ ]  /* 3 values pushed */
+      128 31 0
+      NPUSHW[ ]  /* 45 values pushed */
+      308 16 308 2 308 2 302 85 307 72 306 85 128 306 1 306 2 302 85 305 61 304 85 15 304
+      1 304 2 302 85 303 61 302 85 32 302 96 302 2 0 302 32 302 2 302
+      PUSHB[ ]  /* 3 values pushed */
+      1 0 85
+      PUSHW[ ]  /* 1 value pushed */
+      301
+      PUSHB[ ]  /* 3 values pushed */
+      61 0 85
+      PUSHW[ ]  /* 1 value pushed */
+      300
+      PUSHB[ ]  /* 4 values pushed */
+      0 255 31 128
+      NPUSHW[ ]  /* 17 values pushed */
+      324 1 324 1 318 85 323 61 322 85 322 1 318 85 319 61 318
+      NPUSHB[ ]  /* 71 values pushed */
+      85 16 253 1 245 80 40 31 244 70 42 31 241 70 40 31 240 70 53 31 159 238 175 238 191
+      238 3 127 239 159 239 2 207 239 1 176 239 1 47 239 111 239 127 239 3 0 236 16 236 48
+      236 64 236 80 236 112 236 128 236 7 9 16 235 1 0 235 176 235 2 17 64
+      PUSHW[ ]  /* 1 value pushed */
+      296
+      NPUSHB[ ]  /* 56 values pushed */
+      21 27 70 64 233 18 23 70 231 228 38 31 230 228 61 31 229 228 30 31 15 228 1 29 227
+      226 70 31 15 226 1 64 226 70 22 31 225 224 70 31 191 224 207 224 223 224 3 64 224 51
+      54 70 224 70 24 31
+      PUSHW[ ]  /* 5 values pushed */
+      276 62 274 85 275
+      NPUSHB[ ]  /* 12 values pushed */
+      61 3 85 223 61 221 85 222 61 220 85 0
+      NPUSHW[ ]  /* 23 values pushed */
+      278 1 278 1 277 85 175 277 1 32 277 80 277 2 15 277 1 0 274 48 274 2 274
+      PUSHB[ ]  /* 3 values pushed */
+      1 3 85
+      PUSHW[ ]  /* 1 value pushed */
+      273
+      NPUSHB[ ]  /* 80 values pushed */
+      3 255 31 221 1 220 85 32 220 80 220 128 220 176 220 4 15 220 1 208 21 51 31 191 194
+      1 96 192 112 192 128 192 3 63 192 1 32 192 1 0 192 1 193 80 38 31 112 190 1 32
+      190 48 190 192 190 3 112 190 128 190 2 189 188 60 31 186 173 23 31 185 173 38 31 80 184
+      112 184 128 184 3
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      PUSHB[ ]  /* 4 values pushed */
+      184 19 41 70
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      NPUSHB[ ]  /* 16 values pushed */
+      184 9 12 70 16 183 1 32 183 80 183 128 183 176 183 4
+      PUSHW[ ]  /* 1 value pushed */
+      291
+      NPUSHB[ ]  /* 10 values pushed */
+      181 49 31 15 179 63 179 239 179 3
+      PUSHW[ ]  /* 2 values pushed */
+      289 287
+      PUSHB[ ]  /* 3 values pushed */
+      60 31 64
+      PUSHW[ ]  /* 1 value pushed */
+      287
+      PUSHB[ ]  /* 3 values pushed */
+      29 32 70
+      PUSHW[ ]  /* 1 value pushed */
+      269
+      NPUSHB[ ]  /* 31 values pushed */
+      170 72 31 47 175 63 175 2 160 173 176 173 2 192 173 208 173 2 47 172 63 172 2 159 171
+      1 192 170 208 170 2
+      PUSHW[ ]  /* 2 values pushed */
+      -32 286
+      PUSHB[ ]  /* 4 values pushed */
+      32 35 70 75
+      NPUSHW[ ]  /* 40 values pushed */
+      286 1 36 286 1 164 286 1 137 286 1 91 286 1 73 286 1 45 286 61 286 2 21 286 1
+      6 286 1 271 50 270 85 0 270 16 270 32 270 112 270
+      PUSHB[ ]  /* 5 values pushed */
+      4 157 156 18 31
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      NPUSHB[ ]  /* 20 values pushed */
+      156 14 17 70 32 153 48 153 2 153 150 18 31 152 70 38 31 16 151 1
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      PUSHB[ ]  /* 4 values pushed */
+      150 22 28 70
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      NPUSHB[ ]  /* 42 values pushed */
+      150 14 17 70 149 27 255 31 15 148 175 148 191 148 3 64 148 29 49 70 64 148 22 27 70
+      64 148 12 15 70 15 147 47 147 63 147 127 147 239 147 5 15
+      PUSHW[ ]  /* 3 values pushed */
+      268 111 268
+      NPUSHB[ ]  /* 32 values pushed */
+      2 146 141 38 31 145 83 255 31 223 144 1 48 144 1 31 144 47 144 2 111 144 127 144 2
+      0 143 16 143 32 143 3
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      NPUSHB[ ]  /* 34 values pushed */
+      143 24 28 70 16 142 32 142 48 142 3 79 141 95 141 111 141 3 48 140 1 15 140 31 140
+      47 140 3 64 140 16 19 70 16
+      PUSHW[ ]  /* 8 values pushed */
+      267 32 267 48 267 3 -64 267
+      PUSHB[ ]  /* 3 values pushed */
+      23 32 70
+      PUSHW[ ]  /* 2 values pushed */
+      -64 267
+      PUSHB[ ]  /* 6 values pushed */
+      16 20 70 128 139 1
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      NPUSHB[ ]  /* 39 values pushed */
+      139 12 15 70 137 74 60 31 136 132 60 31 112 134 128 134 2 159 133 175 133 191 133 3 48
+      130 1 129 109 255 31 128 3 255 31 115 80 38 31
+      PUSHW[ ]  /* 1 value pushed */
+      284
+      PUSHB[ ]  /* 4 values pushed */
+      70 17 31 16
+      PUSHW[ ]  /* 1 value pushed */
+      283
+      NPUSHB[ ]  /* 67 values pushed */
+      23 26 70 219 114 235 114 251 114 3 32 114 29 33 70 196 114 212 114 2 113 111 72 31 111
+      70 53 31 110 70 53 31 26 1 24 85 25 51 24 85 7 51 3 85 6 3 255 31 41 109
+      1 108 3 255 31 97 80 28 31 96 80 38 31 95 80 38 31
+      PUSHW[ ]  /* 1 value pushed */
+      281
+      PUSHB[ ]  /* 4 values pushed */
+      70 44 31 207
+      PUSHW[ ]  /* 5 values pushed */
+      280 223 280 2 280
+      PUSHB[ ]  /* 3 values pushed */
+      70 28 31
+      PUSHW[ ]  /* 1 value pushed */
+      279
+      NPUSHB[ ]  /* 35 values pushed */
+      70 38 31 94 90 72 31 92 70 49 31 91 90 72 31 90 70 49 31 20 1 18 85 19 50
+      18 85 5 1 3 85 4 50 3 85
+      PUSHW[ ]  /* 1 value pushed */
+      264
+      NPUSHB[ ]  /* 14 values pushed */
+      27 60 31 15 3 1 150 89 166 89 2 111 83 1
+      PUSHW[ ]  /* 1 value pushed */
+      282
+      NPUSHB[ ]  /* 57 values pushed */
+      80 38 31 82 80 27 31 239 81 255 81 2 64 81 53 56 70 64 81 37 40 70 207 80 1
+      79 76 60 31 78 70 49 31 77 70 49 31 22 76 38 76 54 76 3 7 76 1 231 76 247
+      76 2 75 70 52 31 80
+      PUSHW[ ]  /* 1 value pushed */
+      293
+      NPUSHB[ ]  /* 98 values pushed */
+      1 74 70 38 31 73 70 53 31 72 70 53 31 71 70 53 31 175 70 1 223 70 239 70 2
+      128 70 1 28 72 27 85 23 1 21 85 22 50 21 85 17 1 15 85 16 50 15 85 2 1
+      0 85 1 0 1 31 31 15 63 15 95 15 127 15 4 15 15 47 15 79 15 111 15 143 15
+      223 15 255 15 7 63 15 127 15 239 15 3 111 0 1 79 0 1 144 22 1 5 1
+      PUSHW[ ]  /* 1 value pushed */
+      400
+      PUSHB[ ]  /* 2 values pushed */
+      84 83
+      CALL[ ]
+      CALL[ ]
+      MPPEM[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      2047
+      GT[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      9
+      LT[ ]
+      OR[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      GETINFO[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      37
+      GTEQ[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      GETINFO[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      64
+      LTEQ[ ]
+      AND[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      6
+      GETINFO[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      NEQ[ ]
+      AND[ ]
+      OR[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      1 1
+      INSTCTRL[ ]
+      EIF[ ]
+      SCANCTRL[ ]
+      SCANTYPE[ ]
+      SCANTYPE[ ]
+      SVTCA[0]
+      WS[ ]
+      SCVTCI[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      50
+      GTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      96
+      SCVTCI[ ]
+      EIF[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      100
+      GTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      64
+      SCVTCI[ ]
+      EIF[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      128
+      GTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      16
+      SCVTCI[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      22 0
+      WS[ ]
+      EIF[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC3[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC3[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      SVTCA[0]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      SVTCA[1]
+      DELTAC1[ ]
+      SVTCA[0]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[0]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[0]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      DELTAC2[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      SVTCA[0]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      DELTAC3[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      SVTCA[1]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      SVTCA[0]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      SVTCA[1]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      SVTCA[0]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      SVTCA[1]
+      CALL[ ]
+      SVTCA[0]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC3[ ]
+      SVTCA[0]
+      CALL[ ]
+      SVTCA[1]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      SVTCA[0]
+      DELTAC1[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      SDB[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      SVTCA[0]
+      SDB[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[1]
+      SDB[ ]
+      DELTAC1[ ]
+      DELTAC3[ ]
+      SDB[ ]
+      DELTAC1[ ]
+      SVTCA[0]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      DELTAC1[ ]
+      SVTCA[1]
+      CALL[ ]
+      CALL[ ]
+      SVTCA[0]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      RTG[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
