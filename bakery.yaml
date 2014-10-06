@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Cousine-BoldItalic.ttf.ttx, Cousine-Regular.ttf.ttx, Cousine-Bold.ttf.ttx,
+  Cousine-Italic.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
